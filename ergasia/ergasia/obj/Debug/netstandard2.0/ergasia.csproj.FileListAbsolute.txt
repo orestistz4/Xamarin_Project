@@ -1,0 +1,16 @@
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\obj\Debug\netstandard2.0\ergasia.csprojAssemblyReference.cache
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\obj\Debug\netstandard2.0\ergasia.AssemblyInfoInputs.cache
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\obj\Debug\netstandard2.0\ergasia.AssemblyInfo.cs
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\bin\Debug\netstandard2.0\ergasia.deps.json
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\bin\Debug\netstandard2.0\ergasia.dll
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\bin\Debug\netstandard2.0\ref\ergasia.dll
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\bin\Debug\netstandard2.0\ergasia.pdb
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\obj\Debug\netstandard2.0\ergasia.dll
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\obj\Debug\netstandard2.0\ref\ergasia.dll
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\obj\Debug\netstandard2.0\ergasia.pdb
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\obj\Debug\netstandard2.0\EditPage.xaml.g.cs
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\obj\Debug\netstandard2.0\EmployeeDetailPage.xaml.g.cs
+C:\Users\Orestis\Desktop\ergasia\ergasia\ergasia\ergasia\obj\Debug\netstandard2.0\AddEmployee.xaml.g.cs

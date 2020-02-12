@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ergasia.AddEmployee"
+             Padding="20"
+             Title="Add new Employee"
+             >
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Label  Text="Name" TextColor="Black"   FontSize="Medium"/>
+            <Entry  x:Name="firstName"  Placeholder="your Name..."/>
+            <Label  Text="Surname"  TextColor="Black"   FontSize="Medium"/>
+            <Entry      x:Name="lastName"   Placeholder="your Lastname..."/>
+            <Label  Text="Speciality"   TextColor="Black"   FontSize="Medium"/>
+            <Entry x:Name="speciality"  Placeholder="your Speciality..."/>
+            <Label  Text="Address"  TextColor="Black"   FontSize="Medium"/>
+            <Entry Placeholder="your Address..."    x:Name="address" />
+            <Label  Text="Phone Number" TextColor="Black"   FontSize="Medium"/>
+            <Entry   Keyboard="Telephone"    MaxLength="10" x:Name="phoneNumber"    Placeholder="your phonenumber..." />
+            <Button Text="Add" Clicked="Add_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

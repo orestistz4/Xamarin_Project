@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ergasia.EditPage"
+             Padding="20"
+             Title="Edit"
+             >
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Label  Text="Name" TextColor="Black"   FontSize="Medium"/>
+            <Entry Text="{Binding   Name}"  Completed="Entry_Completed" x:Name="firstName"/>
+            <Label  Text="Surname"  TextColor="Black"   FontSize="Medium"/>
+            <Entry  Text="{Binding Surname}"    x:Name="lastName"/>
+            <Label  Text="Speciality"   TextColor="Black"   FontSize="Medium"/>
+            <Entry Text="{Binding   Speciality}"/>
+            <Label  Text="Address"  TextColor="Black"   FontSize="Medium"/>
+            <Entry  Text="{Binding  Address}"/>
+            <Label  Text="Phone Number" TextColor="Black"   FontSize="Medium"/>
+            <Entry  Text="{Binding  Phone}" Keyboard="Telephone"    MaxLength="10" x:Name="phoneNumber" />
+            <Button Text="Click Me" Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
